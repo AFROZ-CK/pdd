@@ -36,7 +36,7 @@ flutter doctor --android-licenses
 ### Step 4: Open this project
 
 ```powershell
-cd c:\Users\ramu9\OneDrive\Desktop\Mahitha-pdd\datamind
+cd c:\path\to\pdd
 ```
 
 ### Step 5: Install dependencies
@@ -60,7 +60,7 @@ flutter build apk --release
 ## 📂 Project Structure
 
 ```
-datamind/
+pdd/
 ├── lib/
 │   ├── main.dart                  # App entry point
 │   ├── app.dart                   # Root app widget
